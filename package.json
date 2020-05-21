@@ -28,7 +28,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "./assets/logo.png",
+    "icon": "assets/logo.png",
     "contributes": {
         "themes": [
             {
