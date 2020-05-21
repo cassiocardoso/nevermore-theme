@@ -1,6 +1,6 @@
 # Nevermore
 
-<img src="./assets/logo.png" alt="Nevermore Theme" height="250">
+<img src="./logo.png" alt="Nevermore Theme" height="250">
 
 > A dark theme, and nothing more.
 
@@ -8,7 +8,7 @@ Nevermore is a dark theme which uses subtle color variations to be pleasant to t
 
 ## Preview
 
-![theme preview](./assets/theme-preview.png)
+![theme preview](./theme-preview.png)
 
 ## Installation
 
