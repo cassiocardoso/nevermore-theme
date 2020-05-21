@@ -22,7 +22,7 @@ Nevermore is a dark theme which uses subtle color variations to be pleasant to t
 
 ### Disable Italics
 
-The default theme heavily relies on italics to make parts of the code more noticeable, altough, if that's not your preference, there's a **no italics** version available. To activate it, just choose **Nevermore (No Italics)** on the dropdown menu after installing the theme.
+The default theme heavily relies on italics to highlight some code tokens, if that's not your preference, there's a **no italics** version available. To activate it, just choose **Nevermore (No Italics)** on the dropdown menu after installing the theme.
 
 ## Preferences
 
