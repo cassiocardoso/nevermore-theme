@@ -1,0 +1,46 @@
+{
+    "name": "nevermore",
+    "displayName": "Nevermore Theme",
+    "description": "A dark theme, and nothing more",
+    "version": "0.0.1",
+    "publisher": "cassiocardoso",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/cassiocardoso/nevermore-theme"
+    },
+    "keywords": [
+      "Theme",
+      "Dark Theme",
+      "Nevermore",
+      "Night Theme"
+    ],
+    "scripts": {
+      "publish": "vsce publish"
+    },
+    "galleryBanner": {
+      "color": "#131214",
+      "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.44.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "./assets/logo.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Nevermore",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Nevermore-color-theme.json"
+            },
+            {
+              "label": "Nevermore (No Italics)",
+              "uiTheme": "vs-dark",
+              "path": "./themes/Nevermore-No-Italics-color-theme.json"
+          }
+        ]
+    }
+}

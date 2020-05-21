@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #000;
+  color: #fff;
+  font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+$grayscale: (#111, #444, #777);
+
+@each $color in $grayscale {
+  .grayscale-#{$color} {
+    background-color: $color;
+  }
+}
