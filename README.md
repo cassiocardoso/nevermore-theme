@@ -6,7 +6,7 @@
 
 Nevermore is a dark theme which uses subtle color variations to be pleasant to the eyes.
 
-## Pre
+## Preview
 
 ![theme preview](theme-preview.png)
 
