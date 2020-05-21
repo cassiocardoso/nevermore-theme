@@ -1,14 +1,14 @@
 # Nevermore
 
-<img src="./logo.png" alt="Nevermore Theme" height="250">
+<img src="logo.png" alt="Nevermore Theme" height="250">
 
 > A dark theme, and nothing more.
 
 Nevermore is a dark theme which uses subtle color variations to be pleasant to the eyes.
 
-## Preview
+## Pre
 
-![theme preview](./theme-preview.png)
+![theme preview](theme-preview.png)
 
 ## Installation
 
