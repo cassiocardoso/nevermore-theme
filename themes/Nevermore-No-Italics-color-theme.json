@@ -6,7 +6,7 @@
     "focusBorder": "#303137",
     "foreground": "#E0E2E0",
     "widget.shadow": "#2B2433",
-    "selection.background": "#2B2433",
+    "selection.background": "#B5A5C7",
     "errorForeground": "#C44F69",
     "button.background": "#2B2433",
     "button.foreground": "#F5F0E1",
@@ -35,11 +35,11 @@
     "breadcrumb.focusForeground": "#F4F3F3",
     "breadcrumb.activeSelectionForeground": "#F4F3F3",
     "breadcrumbPicker.background": "#131214",
-    "list.activeSelectionBackground": "#131214",
+    "list.activeSelectionBackground": "#4E415F",
     "list.activeSelectionForeground": "#F4F3F3",
     "list.invalidItemForeground": "#686667",
     "list.dropBackground": "#131214",
-    "list.focusBackground": "#131214",
+    "list.focusBackground": "#2B2433",
     "list.focusForeground": "#F4F3F3",
     "list.highlightForeground": "#F4F3F3",
     "list.hoverBackground": "#303137",
@@ -698,7 +698,7 @@
       "name": "Support Function",
       "scope": "support.function",
       "settings": {
-        "foreground": "#A3CFC6"
+        "foreground": "#B5A5C7"
       }
     },
     {
